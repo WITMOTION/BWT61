@@ -8,22 +8,22 @@ Release date:    2020-07-20
 This package contains all neccessary file for set-up of the sensor. 
 
 Unzip the .zip file and you will have a directory containing the files.
+
 -----------
 
 Document download link:
-
 Github 
-https://github.com/WITMOTION/BWT61CL
+https://github.com/WITMOTION/BWT61
 
 Google Drive: 
-https://drive.google.com/open?id=1VjR8F6NxYdhKu17jRNzUMIf2rrd6oOp7
+https://drive.google.com/open?id=15DFS1DHDzoxyMH8rZIxwDDO2nK9taLr4
 
 -----------
 Youtube Channael: 
-https://www.youtube.com/c/WITMOTION/
+https://www.youtube.com/c/WITMOTION
 
-BWT61CL Playlist: 
-https://www.youtube.com/watch?v=6nBOm3Ct348&list=PL43tdDrVL_VC4njMairdwH-O-AVWECvSs
+BWT61 Playlist: 
+https://www.youtube.com/watch?v=BHvlkZj_GAU&list=PL43tdDrVL_VAkUwQ1w4egE48523HDuBaB
 
 -----------
 After-sale Service& Technical Support: 
